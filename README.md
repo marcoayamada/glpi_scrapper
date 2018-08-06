@@ -8,3 +8,4 @@ Traduzindo, ITSM seria Gerenciamento de Serviços de TI e com ele o rastreamento
 
 O Scrapper deste projeto faz login e retorna um Pandas Dataframe com as ordens de serviço. O link com as ordens é passado no método ```busca_chamados()```. Pode-se limitar a consulta com o parâmetro ```qtd_registros``` mas o default é de 100.
 
+Versão GLPI usada para desenvolvimento: ```GLPI 0.85.4 Copyright (C) 2003-2018 by the INDEPNET Development Tea```
